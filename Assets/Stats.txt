@@ -1,0 +1,102 @@
+Land Down Under Player Statistics
+
+Date - 5/11/2021 1:57:55 PM
+Quiz Score - 1/5
+Time Taken - 0:28
+Pests Identified - 0
+
+Date - 11/05/2021 7:31:19 PM
+Quiz Score - 1/5
+Time Taken - 0:46
+Pests Identified - 8
+
+Date - 11/05/2021 7:33:15 PM
+Quiz Score - 2/5
+Time Taken - 0:47
+Pests Identified - 9
+
+Date - 11/05/2021 7:34:14 PM
+Quiz Score - 1/5
+Time Taken - 0:45
+Pests Identified - 9
+
+Date - 11/05/2021 7:35:41 PM
+Quiz Score - 1/5
+Time Taken - 0:44
+Pests Identified - 9
+
+Date - 11/05/2021 7:47:47 PM
+Quiz Score - 2/5
+Time Taken - 1:5
+Pests Identified - 6
+
+Date - 11/05/2021 8:44:34 PM
+Quiz Score - 2/5
+Time Taken - 1:35
+Pests Identified - 3
+
+Date - 11/05/2021 8:45:51 PM
+Quiz Score - 2/5
+Time Taken - 0:46
+Pests Identified - 1
+
+Date - 11/05/2021 8:47:48 PM
+Quiz Score - 5/5
+Time Taken - 1:1
+Pests Identified - 0
+
+Date - 11/05/2021 8:48:58 PM
+Quiz Score - 0/5
+Time Taken - 0:50
+Pests Identified - 0
+
+Date - 11/05/2021 9:14:45 PM
+Quiz Score - 1/5
+Time Taken - 1:43
+Pests Identified - 9
+
+Date - 11/05/2021 9:39:33 PM
+Quiz Score - 0/5
+Time Taken - 1:11
+Pests Identified - 2
+
+Date - 5/11/2021 10:06:02 PM
+Quiz Score - 0/5
+Time Taken - 0:49
+Pests Identified - 4
+
+Date - 5/11/2021 10:29:31 PM
+Quiz Score - 2/5
+Time Taken - 2:15
+Pests Identified - 0
+
+Date - 5/11/2021 10:31:00 PM
+Quiz Score - 1/5
+Time Taken - 0:36
+Pests Identified - 0
+
+Date - 5/11/2021 10:32:29 PM
+Quiz Score - 2/5
+Time Taken - 0:33
+Pests Identified - 0
+
+Date - 5/11/2021 10:33:23 PM
+Quiz Score - 2/5
+Time Taken - 0:32
+Pests Identified - 0
+
+Date - 5/11/2021 10:40:01 PM
+Quiz Score - 3/5
+Time Taken - 3:52
+Pests Identified - 8
+
+Date - 5/11/2021 10:50:17 PM
+Quiz Score - 2/5
+Time Taken - 0:35
+Pests Identified - 4
+
+Date - 6/7/2021 12:43:34 PM
+Quiz Score - 0/5
+Time Taken - 1:7
+Pests Identified - 7
+
